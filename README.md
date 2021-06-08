@@ -4,6 +4,7 @@ Web chat application
 to run this project, follow steps below:
 
 1- On a new terminal type "cd backend" and then type "npm start" : this commends allow you to start the project backend on Port 3000
+
 2- On another terminal ( for example: terminal of visual studio ), type "cd frontend" and then type "npm start " : this commends allow you to start the project frontend on Port 3001
 
 Note:
